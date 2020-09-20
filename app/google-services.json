@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "624468269974",
+    "firebase_url": "https://esports-arena-75349.firebaseio.com",
+    "project_id": "esports-arena-75349",
+    "storage_bucket": "esports-arena-75349.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624468269974:android:5dc1d18013e5a25db19bb7",
+        "android_client_info": {
+          "package_name": "com.example.esportsarena"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624468269974-0ltt9ath35boovo3ubrqmu54jbpjpfuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3hK9WzYugqdqCzMiXKdN3lfGBP454N7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624468269974-0ltt9ath35boovo3ubrqmu54jbpjpfuc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
