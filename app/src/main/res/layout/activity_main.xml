@@ -88,4 +88,16 @@
         app:layout_constraintTop_toBottomOf="@+id/userNameTitle"
         app:layout_constraintVertical_bias="0.01999998" />
 
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        app:layout_constraintBottom_toTopOf="@+id/logoutButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.13"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/userName"
+        app:layout_constraintVertical_bias="0.16000003" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
